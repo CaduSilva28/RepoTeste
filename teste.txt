@@ -1,3 +1,4 @@
 Arquivo de teste
 Nova linha de registro
 Terceira linha inserida
+Quarta linha
