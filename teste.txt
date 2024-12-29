@@ -1,3 +1,5 @@
 Arquivo de teste
 Nova linha de registro
-Ter
+Terceira linha inserida
+Quarta linha
+Quinta linha
